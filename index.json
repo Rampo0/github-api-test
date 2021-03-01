@@ -1,5 +1,8 @@
 {
-   "name": "Ammar Dwi Anwari",
-   "role": "Software Engineer",
-   "age": 21
+   "status": "maintenance",
+   "imageUrl": "https://www.google.com",
+   "textIndo": "Sedang Maintenance",
+   "textEng": "Under Maintenance",
+   "timeStart": "23:00",
+   "timeEnd": "04:00"
 }
