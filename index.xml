@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 	<channel>
-		<title>Sejutacita - Maintenance</title>
+		<title>Hello World
 		<item>
 			<title>Maintenance</title>
 			<status>true</status>
@@ -10,5 +10,5 @@
 			<title>Maintenance</title>
 			<ending>Terima kasih teman-teman.</ending>
 		</item>
-	</channel>
-</rss>
+	
+</title></channel></rss>
